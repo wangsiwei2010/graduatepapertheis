@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.3.16)  9 SEP 2019 16:02
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.3.16)  9 SEP 2019 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1813,10 +1813,6 @@ LaTeX Info: Redefining \nameref on input line 73.
 \@outlinefile=\write4
 \openout4 = `thesis.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \c@lstlisting=\count357
 \g__fontspec_family_AdobeFangsongStd_int=\count358
 .................................................
@@ -1849,6 +1845,7 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 LaTeX Font Info:    Calculating math sizes for size <10.53937> on input line 80
 .
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 80.
+
 (c:/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1982,10 +1979,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <16.06> not available
 
 ] [3
 
-]
-\tf@toc=\write5
-\openout5 = `thesis.toc'.
-
+] (./thesis.toc
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -2013,23 +2007,28 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <16.06> not available
 . Std/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
+)
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
  [1
 
 
 
-]
+] (./thesis.lot)
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
  [2
 
-]
+] (./thesis.lof)
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
  [3
 
-] (./data/abstract.tex [1
+]
+(./data/abstract.tex [1
 
 
 
@@ -2147,62 +2146,19 @@ Overfull \hbox (33.02748pt too wide) in alignment at lines 59--70
 [][] 
  []
 
-
-LaTeX Warning: Reference `tab:template-files' on page 6 undefined on input line
- 74.
-
 [6]
-
-LaTeX Warning: Reference `tab:tabexamp1' on page 7 undefined on input line 106.
-
-
-
-LaTeX Warning: Reference `tab:tabexamp1' on page 7 undefined on input line 129.
-
-
-
-LaTeX Warning: Reference `tab:parallel1' on page 7 undefined on input line 139.
-
-
-
-LaTeX Warning: Reference `tab:parallel2' on page 7 undefined on input line 139.
-
-
-
-LaTeX Warning: Reference `tab:subtable' on page 7 undefined on input line 140.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-
-LaTeX Warning: Reference `tab:performance' on page 8 undefined on input line 18
-5.
-
 [8]
-
-LaTeX Warning: Reference `fig:ipe' on page 9 undefined on input line 258.
-
 File: figures/hello.pdf Graphic file (type QTm)
-<use  "figures/hello.pdf" >
-
-LaTeX Warning: Reference `fig:big1' on page 9 undefined on input line 267.
-
-
-LaTeX Warning: Reference `fig:subfig1' on page 9 undefined on input line 267.
-
-
-LaTeX Warning: Reference `fig:subfig2' on page 9 undefined on input line 268.
-
+ <use  "figures/hello.pdf" >
 File: figures/xh.png Graphic file (type QTm)
-<use  "figures/xh.png" >
+ <use  "figures/xh.png" >
 File: figures/xhh.eps Graphic file (type eps)
  <figures/xhh.eps>
-
-LaTeX Warning: Reference `fig:subfig:3x2' on page 9 undefined on input line 282
-.
-
 File: figures/typography.pdf Graphic file (type QTm)
+
 <use  "figures/typography.pdf" >
 File: figures/typography.pdf Graphic file (type QTm)
  <use  "figures/typography.pdf" >
@@ -2215,129 +2171,27 @@ File: figures/typography.pdf Graphic file (type QTm)
 
 <use  "figures/typography.pdf" >
 File: figures/typography.pdf Graphic file (type QTm)
- <use  "figures/typography.pdf" >
-
-LaTeX Warning: Reference `fig:subfig:3x2' on page 9 undefined on input line 295
-.
-
-
-Underfull \vbox (badness 2884) has occurred while \output is active []
-
- [9]
-
-LaTeX Warning: Reference `fig:parallel1' on page 10 undefined on input line 300
-.
-
-
-LaTeX Warning: Reference `fig:parallel2' on page 10 undefined on input line 300
-.
-
+ <use  "figures/typography.pdf" > [9]
 File: figures/xhh.eps Graphic file (type eps)
+
 <figures/xhh.eps>
 File: figures/xhh.eps Graphic file (type eps)
  <figures/xhh.eps>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-
-LaTeX Warning: Reference `equ:chap1:bayes' on page 11 undefined on input line 3
-25.
-
-
-LaTeX Warning: Reference `equ:split' on page 11 undefined on input line 350.
-
 Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
 t line 365.
+
 [11]
 Package hyperref Info: bookmark level for unknown proof defaults to 0 on input 
 line 385.
-
-
-LaTeX Warning: Reference `alg53' on page 12 undefined on input line 400.
-
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 402.
-
-LaTeX Warning: Reference `alg53' on page 12 undefined on input line 420.
-
 
 Underfull \vbox (badness 1748) has occurred while \output is active []
 
  [12]
-
-LaTeX Warning: Reference `alg54' on page 13 undefined on input line 422.
-
-
-Package natbib Warning: Citation `tex' on page 13 undefined on input line 440.
-
-
-Package natbib Warning: Citation `companion' on page 13 undefined on input line
- 440.
-
-
-Package natbib Warning: Citation `Krasnogor2004e' on page 13 undefined on input
- line 441.
-
-
-Package natbib Warning: Citation `clzs' on page 13 undefined on input line 441.
-
-
-
-Package natbib Warning: Citation `zjsw' on page 13 undefined on input line 441.
-
-
-
-Package natbib Warning: Citation `ELIDRISSI94' on page 13 undefined on input li
-ne 442.
-
-
-Package natbib Warning: Citation `MELLINGER96' on page 13 undefined on input li
-ne 442.
-
-
-Package natbib Warning: Citation `SHELL02' on page 13 undefined on input line 4
-42.
-
-
-Package natbib Warning: Citation `zhubajie' on page 13 undefined on input line 
-442.
-
-
-Package natbib Warning: Citation `metamori2004' on page 13 undefined on input l
-ine 442.
-
-
-Package natbib Warning: Citation `shaheshang' on page 13 undefined on input lin
-e 443.
-
-
-Package natbib Warning: Citation `FistSystem01' on page 13 undefined on input l
-ine 443.
-
-
-Package natbib Warning: Citation `IEEE-1363' on page 13 undefined on input line
- 443.
-
-
-Package natbib Warning: Citation `DPMG' on page 13 undefined on input line 443.
-
-
-
-Package natbib Warning: Citation `kocher99' on page 13 undefined on input line 
-443.
-
-
-Package natbib Warning: Citation `NPB2' on page 13 undefined on input line 444.
-
-
-
-Package natbib Warning: Citation `cnarticle' on page 13 undefined on input line
- 444.
-
-
-Package natbib Warning: Citation `shaheshang' on page 13 undefined on input lin
-e 451.
-
 (c:/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -2381,21 +2235,18 @@ Underfull \vbox (badness 1430) has occurred while \output is active []
  [14]
 [15]) (./data/ack.tex [16]) [17
 
-]
-No file thesis.bbl.
-(./data/resume.tex) [18
+] (./thesis.bbl [18
 
+
+]) (./data/resume.tex
+[19]) [20
 
 ] (./data/appendix01.tex)
 \tf@thm=\write8
 \openout8 = `thesis.thm'.
 
-
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
-[19
+ [21
 
 
 
@@ -2412,21 +2263,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 33768 strings out of 493005
- 623251 string characters out of 6137956
- 757381 words of memory out of 5000000
- 37189 multiletter control sequences out of 15000+600000
- 120876 words of font info for 250 fonts, out of 8000000 for 9000
+ 33843 strings out of 493005
+ 626088 string characters out of 6137956
+ 759124 words of memory out of 5000000
+ 37258 multiletter control sequences out of 15000+600000
+ 120868 words of font info for 249 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  51i,21n,87p,10461b,1900s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (28 pages).
+Output written on thesis.pdf (30 pages).

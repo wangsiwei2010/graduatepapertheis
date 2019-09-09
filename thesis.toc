@@ -21,8 +21,8 @@
 \contentsline {section}{\numberline {2.8}中文习惯}{16}{section.2.8}
 \contentsline {chapter}{致谢}{17}{chapter*.23}
 \contentsline {chapter}{参考文献}{18}{section*.24}
-\contentsline {chapter}{作者在学期间取得的学术成果}{18}{chapter*.25}
+\contentsline {chapter}{作者在学期间取得的学术成果}{20}{chapter*.26}
 \ttl@change@i {\@ne }{chapter}{0pt}{\vspace {0.25\baselineskip } \heiti \xiaosi [1.25]}{附录\,\thecontentslabel \quad }{}{\hspace {.5em}\titlerule *{.}\contentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
-\contentsline {chapter}{\numberline {A}模板提供的希腊字母命令列表}{19}{appendix.A}
+\contentsline {chapter}{\numberline {A}模板提供的希腊字母命令列表}{21}{appendix.A}
 \contentsfinish 
